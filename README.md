@@ -2,7 +2,7 @@
 
 This repository contains code for the model described in 
 
-Glaws, A., King, R., Gijayakumar, G., Ananthan, S. "Invertible neural networks for airfoil design". Submitted to AIAA Journal.
+Glaws, A., King, R., Vijayakumar, G., Ananthan, S. "Invertible neural networks for airfoil design". Submitted to AIAA Journal.
 
 ___
 
